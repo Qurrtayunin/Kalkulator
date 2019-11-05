@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="bilangan_1">Bilangan 1</string>
+    <string name="bilangan_2">Bilangan 2</string>
+    <string name="pilih_operasi">PILIH OPERASI</string>
+    <string name="reset">RESET</string>
+</resources>
